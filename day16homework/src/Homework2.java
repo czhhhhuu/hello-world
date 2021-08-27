@@ -15,7 +15,8 @@ public class Homework2 {
         System.out.println("速度是："+vehicle.getSpeed()+" 体积是："+vehicle.getSize());
         System.out.println(vehicle);
         System.out.println(vehicle);
-    }
 
+        
+    }
 
 }
